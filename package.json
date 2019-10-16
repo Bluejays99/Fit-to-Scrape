@@ -1,0 +1,19 @@
+{
+  "name": "fit-to-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bluejays99/Fit-to-Scrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bluejays99/Fit-to-Scrape/issues"
+  },
+  "homepage": "https://github.com/Bluejays99/Fit-to-Scrape#readme"
+}
